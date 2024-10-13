@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 
 public class merge2Array {
 public static void main(String args[])

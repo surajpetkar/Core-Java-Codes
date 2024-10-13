@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 import java.io.*;
 
 public class arrMultipleInput {

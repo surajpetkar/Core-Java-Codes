@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 // RUN THIS APP IN NOTEPAD
 public class loading {
 

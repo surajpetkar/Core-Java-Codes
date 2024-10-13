@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 import java.util.Scanner;
 public class areaofcircle {
 	public static void main(String args[])

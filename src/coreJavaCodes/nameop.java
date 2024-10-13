@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 
 import java.io.IOException;
 // RUN THIS APP IN NOTEPAD

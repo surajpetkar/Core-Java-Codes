@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 
 public class TenxTenTables {
 public static void main(String args[])

@@ -1,4 +1,4 @@
-package timepass;
+package coreJavaCodes;
 
 import java.util.ArrayList;
 import java.util.HashMap;
